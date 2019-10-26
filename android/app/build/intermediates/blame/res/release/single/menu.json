@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/hoaphan/Documents/Company Source/BanVien/3km.mobile/node_modules/react-native-navigation/android/app/build/intermediates/res/merged/release/menu/search_item.xml",
+        "source": "/Users/hoaphan/Documents/Company Source/BanVien/3km.mobile/node_modules/react-native-navigation/android/app/src/main/res/menu/search_item.xml"
+    },
+    {
+        "merged": "/Users/hoaphan/Documents/Company Source/BanVien/3km.mobile/node_modules/react-native-navigation/android/app/build/intermediates/res/merged/release/menu/stub.xml",
+        "source": "/Users/hoaphan/Documents/Company Source/BanVien/3km.mobile/node_modules/react-native-navigation/android/app/src/main/res/menu/stub.xml"
+    }
+]
